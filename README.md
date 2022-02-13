@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome! I am Kai, a CS 💻 and STAT 📈 student at Rice University who's broadly interested in machine learning, bayesian statistics, graph theory, computational social science, and AI for healthcare. Here on my Github, you will find some publicly available personal (data-driven) projects of mine, but my most interesting work are hidden away in private repositories affiliated with research labs at Rice University and RiceApps, a student-centered app development organization on our campus. 
+Who Am I?
+* Computer Science + Statistics at Rice University 🍚
+* Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
+* Undergraduate Research Assistant for Computational Wellbeing Lab 🔮
+* Passionate about Machine Learning, Bayesian Statistics, Graph Networks, Computational Social Science, and AI for Healthcare 🍀
+* League of Legends + Pokemon Fanatic ✨
