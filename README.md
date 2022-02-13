@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 Who Am I?
-* Computer Science + Statistics at Rice University 🍚
+* Computer Science & Statistics at Rice University 🍚
 * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
 * Undergraduate Research Assistant for Computational Wellbeing Lab 🔮
 * Passionate about Machine Learning, Bayesian Statistics, Graph Networks, Computational Social Science, AI for Healthcare 🍀
-* League of Legends + Pokemon Fanatic ✨
+* Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
