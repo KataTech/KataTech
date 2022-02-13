@@ -17,5 +17,5 @@ Who Am I?
 * Computer Science + Statistics at Rice University 🍚
 * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
 * Undergraduate Research Assistant for Computational Wellbeing Lab 🔮
-* Passionate about Machine Learning, Bayesian Statistics, Graph Networks, Computational Social Science, and AI for Healthcare 🍀
+* Passionate about Machine Learning, Bayesian Statistics, Graph Networks, Computational Social Science, AI for Healthcare 🍀
 * League of Legends + Pokemon Fanatic ✨
