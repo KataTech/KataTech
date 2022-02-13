@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KataTech/KataTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome! I am Kai, a CS and STAT student at Rice University who's broadly interested in machine learning, bayesian statistics, graph theory, computational social science, and AI for healthcare. Here on my Github, you will find some publicly available personal (data-driven) projects of mine, but my most interesting work are hidden away in private repositories affiliated with research labs at Rice University and RiceApps, a student-centered app development organization on our campus. 
+
+In the coming years, I hope to submerge myself in the space of open-sourced software. If you might have a project that appeals to my interest as stated above or simply want to chat about cool advancements related to them, I would love to hear from you! 
+
+Beyond technology and mathematical topics, my favorite hobbies include playing basketball, trying out different Pokemon ROM Hacks, and hopping in a game of League of Legends with my friends!
