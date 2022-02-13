@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 Who Am I?
-* Computer Science & Statistics at Rice University 🍚
 * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
 * Undergraduate Research Assistant for Computational Wellbeing Lab 🔮
 * Interests in Machine Learning, Bayesian Statistics, Graph Networks, Computational Social Science, AI for Healthcare 🍀
