@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 Who Am I?
 * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
-* Undergraduate Research Assistant for Computational Wellbeing Lab and Gopnik Cognitive Development & Learning Lab 🔮
+* Undergraduate Research Assistant 
+* * Computational Wellbeing Lab 🔮
+* * Gopnik Cognitive Development & Learning Lab 🌹
 * Interests in AI, Machine Learning, Graph Networks, Bayesian Statistics with Applications in Healthcare & Social Science 🍀
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
