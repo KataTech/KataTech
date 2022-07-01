@@ -19,5 +19,5 @@ Who Am I?
   * Rice ECE | Computational Wellbeing Lab 🔮
   * Berkeley AI Research | Gopnik Cognitive Development & Learning Lab 🌹
 * Interests in AI, Machine Learning, Graph Networks, Bayesian Statistics with Applications in Healthcare & Social Science 🍀
-  * Recently, I have been reading more on topics related to distributed machine learning and offline reinforcement learning
+  * Recently, I have been reading more on distributed machine learning and offline reinforcement learning
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
