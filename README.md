@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Who Am I?
-* Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
+* Math & CS @ Rice University
 * Undergraduate Machine Learning Research Assistant 
   * Rice ECE | OptimalEnsemble Lab: Research in Optimal Transport, Distributed Optimization and Machine Learning 🌔
 * Interests in AI, Machine Learning, Graph Networks, Optimal Transport with Applications in Healthcare & Social Science 🍀
@@ -22,6 +22,7 @@ Who Am I?
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
 
 Previously... 
+  * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
   * AI Research Intern @ Berkeley AI Research | Gopnik Cognitive Development & Learning Lab 🌹
   * Data Science Research Intern @ Rice ECE | Computational Wellbeing Lab 🔮
   * Bioinformatics Research Intern @ MD Anderson Cancer Center | Sastry Lab
