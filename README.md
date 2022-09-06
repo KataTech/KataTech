@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 Who Am I?
 * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
-* Undergraduate AI & Machine Learning Research Assistant 
+* Undergraduate Machine Learning Research Assistant 
   * Rice ECE | OptimalEnsemble Lab: Research Direction in Optimal Transport, Distributed Optimization and Machine Learning 🌔
-  * Rice ECE | Computational Wellbeing Lab 🔮
-  * Berkeley AI Research | Gopnik Cognitive Development & Learning Lab 🌹
 * Interests in AI, Machine Learning, Graph Networks, Optimal Transport with Applications in Healthcare & Social Science 🍀
   * Recently, I have been reading more on optimal transport theory
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
+
+Previously... 
+  * AI Research Intern @ Berkeley AI Research | Gopnik Cognitive Development & Learning Lab 🌹
+  * Data Science Research Intern @ Rice ECE | Computational Wellbeing Lab 🔮
+  * Bioinformatics Research Intern @ MD Anderson Cancer Center | Sastry Lab
