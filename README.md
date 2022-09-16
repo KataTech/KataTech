@@ -18,7 +18,6 @@ Who Am I?
 * Undergraduate Machine Learning Research Assistant 
   * Rice ECE | OptimalEnsemble Lab: Research in Optimal Transport, Distributed Optimization and Machine Learning 🌔
 * Interests in AI, Machine Learning, Graph Networks, Optimal Transport with Applications in Healthcare & Social Science 🍀
-  * Recently, I have been reading more on optimal transport theory
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
 
 Previously... 
