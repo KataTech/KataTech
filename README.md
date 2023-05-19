@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 Who Am I?
 * Math & CS @ Rice University
+* Incoming Tech Lead @ RiceApps
 * Undergraduate Machine Learning Research Assistant 
   * Rice ECE | OptimalEnsemble Lab: Research in Optimal Transport, Distributed Optimization and Machine Learning 🌔
 * Interests in AI/ML, Graph Representation, Optimal Transport with Applications in Healthcare & Social Science 🍀
