@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 Who Am I?
 * Math & CS @ Rice University
 * Incoming Tech Lead @ RiceApps
-* Undergraduate Machine Learning Research Assistant 
-  * Rice ECE | OptimalEnsemble Lab: Research in Optimal Transport, Distributed Optimization and Machine Learning 🌔
-* Interests in AI/ML, Graph Representation, Optimal Transport with Applications in Healthcare & Social Science 🍀
+* Undergraduate ML Research Assistant 
+  * NYU Courant | Optimal Transport for Factor Discovery for Interpretable, Personalized Healthcare ⛑️
+  * Rice ECE | OptimalEnsemble Lab: Research in Optimal Transport, Distributed Optimization, and Machine Learning 🌔
+* Interests in AI/ML, Graph Representation, and Optimal Transport with Applications in Healthcare & Social Science 🍀
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
 
 Previously... 
-  * Software Developer for Rice Carpool, ride-sharing platform made by Rice students for Rice students 🚙
+  * Software Developer for Rice Carpool, the ride-sharing platform made by Rice students for Rice students 🚙
   * AI Research Intern @ Berkeley AI Research | Gopnik Cognitive Development & Learning Lab 🌹
   * Data Science Research Intern @ Rice ECE | Computational Wellbeing Lab 🔮
   * Bioinformatics Research Intern @ MD Anderson Cancer Center | Sastry Lab
