@@ -18,7 +18,7 @@ Who Am I?
 * Incoming Tech Lead @ RiceApps
 * Undergraduate ML Research Assistant 
   * NYU Courant | Optimal Transport for Factor Discovery for Interpretable, Personalized Healthcare ⛑️
-  * Rice ECE | OptimalEnsemble Lab: Research in Optimal Transport, Distributed Optimization, and Machine Learning 🌔
+  * Rice ECE | Graph Factorization and Optimal Transport for Food Web Network Analysis 🌔
 * Interests in AI/ML, Graph Representation, and Optimal Transport with Applications in Healthcare & Social Science 🍀
 * Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
 
