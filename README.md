@@ -13,17 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Who Am I?
-* Math & CS @ Rice University
-* Incoming Tech Lead @ RiceApps
-* Undergraduate ML Research Assistant 
-  * NYU Courant | Optimal Transport for Factor Discovery for Interpretable, Personalized Healthcare ⛑️
-  * Rice ECE | Graph Factorization and Optimal Transport for Food Web Network Analysis 🌔
-* Interests in AI/ML, Graph Representation, and Optimal Transport with Applications in Healthcare & Social Science 🍀
-* Wukong Main in League of Legends. Replayed Pokemon Platinum > 10 Times✨
+I study a mixture of mathematics, statistics, and computer science at the beautiful Rice University in Houston, Texas. My expertise is in the analysis and alignment of networks through computational optimal transport. While I identify as a researcher first, much of my experience is in transforming mathematical models into software infrastructure that acts on real-world data from food web networks, social media, RNA sequencing tools, and human behaviors in psychological experiments. 
 
-Previously... 
-  * Software Developer for Rice Carpool, the ride-sharing platform made by Rice students for Rice students 🚙
-  * AI Research Intern @ Berkeley AI Research | Gopnik Cognitive Development & Learning Lab 🌹
-  * Data Science Research Intern @ Rice ECE | Computational Wellbeing Lab 🔮
-  * Bioinformatics Research Intern @ MD Anderson Cancer Center | Sastry Lab
+A few things that I care a lot about are... AI safety, applications of ML to cancer treatment and drug discovery, open-world fantasy video games, sci-fi books that cast a new light on existential crisis, and cooking authentic Chinese soups to make my parents proud. 
+
+For a more professional overview of my work, you can find me on LinkedIn or visit my personal website at katatech.github.io. 
