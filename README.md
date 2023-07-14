@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I study a mixture of mathematics, statistics, and computer science at the beautiful Rice University in Houston, Texas 🌱. My expertise is in the analysis and alignment of networks through computational optimal transport. While I identify as a researcher first, much of my experience is in transforming mathematical models into software infrastructures that act on real-world data from food web networks 🦜, social media📱, RNA sequencing tools 🧬, and human behaviors in psychological experiments 🧠. 
+I study a mixture of mathematics, statistics, and computer science at the beautiful Rice University in Houston, Texas 🌱. 
+
+My expertise is in the analysis and alignment of networks through computational optimal transport. While I identify as a researcher first, much of my experience is in transforming mathematical models into software infrastructures that act on real-world data from food web networks 🦜, social media📱, RNA sequencing tools 🧬, and human behaviors in psychological experiments 🧠. 
 
 A few things that I care a lot about are... AI safety 🦾, applications of ML to cancer treatment and drug discovery 🧪, open-world fantasy video games 🔮, sci-fi books that cast a new light on existential crises 🔥, and cooking authentic Chinese soups to make my parents proud 🍜. 
 
