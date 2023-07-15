@@ -19,4 +19,4 @@ My expertise is in the analysis and alignment of networks through computational 
 
 A few things that I care a lot about are... AI safety 🦾, applications of ML to cancer treatment and drug discovery 🧪, open-world fantasy video games 🔮, sci-fi books that cast a new light on existential crises 🔥, and cooking authentic Chinese soups to make my parents proud 🍜. 
 
-For a more professional overview of my work, you can find me on [LinkedIn](https://www.linkedin.com/in/kaimhung/) or visit my [personal website](https://katatech.github.io/). My sick profile photo is generated using Midjourney. 
+For a more professional overview of my work, you can find me on [LinkedIn](https://www.linkedin.com/in/kaimhung/) or visit my [personal website](https://katatech.github.io/). 
