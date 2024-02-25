@@ -17,6 +17,6 @@ I study a mixture of mathematics, statistics, and computer science at the beauti
 
 My expertise is in the analysis and alignment of networks through computational optimal transport. While I identify as a researcher first, much of my experience is in transforming mathematical models into software infrastructures that act on real-world data from food web networks 🦜, social media📱, RNA sequencing tools 🧬, and human behaviors in psychological experiments 🧠. 
 
-A few things that I care a lot about are... AI safety 🦾, applications of ML to cancer treatment and drug discovery 🧪, open-world fantasy video games 🔮, sci-fi books that cast a new light on existential crises 🔥, and cooking authentic Chinese soups to make my parents proud 🍜. 
+Some topics I am actively exploring... AI safety 🦾, applications of ML to cancer treatment and drug discovery . I like to spend my free time on open-world fantasy video games 🔮, sci-fi books that cast a new light on existential crises 🔥, and cooking authentic Chinese soups to make my parents proud 🍜. 
 
-For a more professional overview of my work, you can find me on [LinkedIn](https://www.linkedin.com/in/kaimhung/) or visit my [personal website](https://katatech.github.io/). 
+For a professional overview of my work, you can find me on [LinkedIn](https://www.linkedin.com/in/kaimhung/) or visit my [personal website](https://katatech.github.io/). 
