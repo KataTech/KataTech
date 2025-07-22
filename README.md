@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 I am a PhD student at MIT IDSS working on AI safety and theory in social settings. 
 
-For a professional overview of my work, you can find me on [LinkedIn](https://www.linkedin.com/in/kaimhung/) or visit my [personal website](https://katatech.github.io/). 
+For an overview of my work, you can visit my [personal website](https://katatech.github.io/). 
