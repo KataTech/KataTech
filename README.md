@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student at MIT IDSS working on AI safety and theory in social settings. 
+I am a PhD student at MIT IDSS working broadly in statistics and machine learning for social good. I spend a lot of time thinking about data-driven algorithms in the context of collective decision and behavior. 
 
 For an overview of my work, you can visit my [personal website](https://katatech.github.io/). 
